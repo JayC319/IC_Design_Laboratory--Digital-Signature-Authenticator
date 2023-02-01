@@ -21,7 +21,7 @@
   <img src="./img/layout_result.png" width="600" title="Layout Result">
 </p>
 
-<table class="center">
+<center>
 ### I/O Definition
 | Type   | Name          | bits | Description                                 |
 | ------ | ------------- | ---- | ------------------------------------------- |
@@ -61,8 +61,8 @@
 | ---------------- | ----------- |
 | synthesis timing | 2.35        |
 | APR timing       | 3.2         |
+</center>
 
-</table> 
 # Referenced Work
 
 
