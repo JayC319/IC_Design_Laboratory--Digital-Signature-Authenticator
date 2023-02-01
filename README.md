@@ -46,7 +46,7 @@
 | Input  | clk           | 1    | Clock                                       |
 | Input  | srst_n        | 1    | System reset                                |
 | Input  | enable        | 1    | Trigger hardware<br>operation               |
-| Input  | mode          | 1    | encrypt/decrypt                             |
+| Input  | mode          | 1    | encrypt / decrypt                             |
 | Input  | msg_sram_data | 64   | message data                                |
 | Input  | m_len         | 14   | message length<br>(byte)                    |
 | Input  | cph_sram_data | 8    | cipher data                                 |
