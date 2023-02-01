@@ -34,7 +34,7 @@
 ### Power Analysis
 
  <p align="center">
-  <img src="./img/power_analysis.png" width="500" height="400" title="Layout Result">
+  <img src="./img/power_analysis.png" width="550"  title="Layout Result">
 </p>
 
 ### Area 
