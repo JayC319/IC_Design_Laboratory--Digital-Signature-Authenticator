@@ -6,8 +6,14 @@
 > Quote to be finished
 
 ### Digital Signature Generation
+<p align="center">
+  <img src="./img/encrpyt_flow.png" width="600" title="encrpyt_flow">
+</p>
 
 ### Verificate Authenticity
+<p align="center">
+  <img src="./img/decrpyt_flow.png" width="600" title="decrpyt_flow">
+</p>
 
 # About Hardware
 ### Top Module View
@@ -17,7 +23,7 @@
 
 
 ### Layout View
- <p align="center">
+<p align="center">
   <img src="./img/layout_result.png" width="600" title="Layout Result">
 </p>
 
