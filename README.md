@@ -40,10 +40,12 @@
 | Output | msg_sram_addr | 11   | address for message data                    |
 | Output | cph_sram_addr | 5    | address for cipher data                     |
 
-<div align="center">
+</div>
  
 ### Power Analysis
 
+<div align="center">
+  
 | Power Analysis          | Pre Layout | Post Layout<br>(pre-sim waveform) | Post Layout<br>(post-sim waveform) |
 | ----------------------- | ---------- | --------------------------------- | ---------------------------------- |
 | Net Switching Power (W) | 2.76E-04   | 1.30E-03                          | 1.38E-03                           |
@@ -53,18 +55,29 @@
 | Glitching Power (W)     | 7.61E-07   | 1.23E-04                          | 1.02E-06                           |
 | Total Power (W)         | 2.35E-03   | 3.43E-03                          | 3.60E-03                           |
 
+</div>
+
 ### Area 
+
+<div align="center">
+
 |                | area ( um<sup>2</sup>) | core utilization |
 | -------------- | ---------------------- | ---------------- |
 | synthesis area | 241509.46              | 85%              |
 | APR area       | 284199.26              |
 
+</div>
+
 ### Clock Period constrain
+
+<div align="center">
+
 |                  | timing (ns) |
 | ---------------- | ----------- |
 | synthesis timing | 2.35        |
 | APR timing       | 3.2         |
 
+</div>
 
 # Referenced Work
 
