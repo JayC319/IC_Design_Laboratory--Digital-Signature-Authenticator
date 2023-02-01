@@ -40,8 +40,8 @@
 ### Area 
 |                | area ( um2) | core utilization |
 |----------------|-------------|------------------|
-| synthesis area | 241509.46   | 85%              |
-| APR area       | 284199.26   |                  |
+| synthesis area | 241509.46   |                  |
+| APR area       | 284199.26   | 85%              |
 
 ### Clock Period constrain
 |                  | timing (ns) |
@@ -50,7 +50,7 @@
 | APR timing       | 3.2         |
 
 ### Throughput analysis
-|                       | pattern |       |       |        |        |        |        |
+|                       | ^c – center alignment pattern |       |       |        |        |        |        |
 |-----------------------|---------|-------|-------|--------|--------|--------|--------|
 |                       | #1      | #2    | #3    | #4     | #5     | #6     | #7     |
 | message length (byte) | 3       | 59    | 64    | 136    | 1253   | 1857   | 14459  |
