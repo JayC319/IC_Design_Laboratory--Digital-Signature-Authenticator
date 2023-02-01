@@ -2,7 +2,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://kentcdodds.com"><img src="" width="100px;" alt="JhaoWei Chen"/><br /><sub><b>JhaoWei Chen</b></sub></a><br />
+      <td align="center"><a href="https://github.com/JayC319"><img src="" width="100px;" alt="JhaoWei Chen"/><br /><sub><b>JhaoWei Chen</b></sub></a><br />
     </tr>
   </tbody>
 </table>
