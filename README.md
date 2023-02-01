@@ -5,7 +5,7 @@
 # Innovations
 
 # Layout Result
-### layout view
+### Layout View
 ![plot](./img/layout_result.png)
 
 # Referenced Work
