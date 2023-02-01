@@ -6,10 +6,8 @@
 
 # About Hardware
 ### Top Module View
-
-![plot](./img/top_view.png)
 <p align="center">
-  <img src="./img/top_view.png" width="350" title="Top Module View">
+  <img src="./img/top_view.png" width="500" title="Top Module View">
 </p>
 
 
