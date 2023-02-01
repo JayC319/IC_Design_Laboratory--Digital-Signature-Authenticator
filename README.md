@@ -46,9 +46,14 @@
  
 ### Power Analysis
 
- <p align="center">
-  <img src="./img/power_analysis.png" width="550"  title="Layout Result">
-</p>
+| Power Analysis          | Pre Layout | Post Layout<br>(pre-sim waveform) | Post Layout<br>(post-sim waveform) |
+| ----------------------- | ---------- | --------------------------------- | ---------------------------------- |
+| Net Switching Power (W) | 2.76E-04   | 1.30E-03                          | 1.38E-03                           |
+| Cell Internal Power (W) | 2.06E-03   | 2.12E-03                          | 2.22E-03                           |
+| Cell Leakage Power (W)  | 6.03E-06   | 7.31E-06                          | 7.31E-06                           |
+| X Transition Power (W)  | 2.65E-07   | 5.54E-07                          | 5.02E-07                           |
+| Glitching Power (W)     | 7.61E-07   | 1.23E-04                          | 1.02E-06                           |
+| Total Power (W)         | 2.35E-03   | 3.43E-03                          | 3.60E-03                           |
 
 ### Area 
 |                | area ( um2) | core utilization |
