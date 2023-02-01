@@ -23,7 +23,7 @@
 
 
 ### I/O Definition
-<center>
+<div align="center">
 
 | Type   | Name          | bits | Description                                 |
 | ------ | ------------- | ---- | ------------------------------------------- |
@@ -40,7 +40,7 @@
 | Output | msg_sram_addr | 11   | address for message data                    |
 | Output | cph_sram_addr | 5    | address for cipher data                     |
 
-</center>
+<div align="center">
  
 ### Power Analysis
 
