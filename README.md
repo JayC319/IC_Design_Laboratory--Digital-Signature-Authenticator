@@ -4,7 +4,7 @@
     <tr>
       <td align="center"><a href="https://github.com/JayC319"><img src="https://avatars.githubusercontent.com/u/67352558?v=4" width="100px;" alt="JhaoWei Chen"/><br /><sub><b>JhaoWei Chen</b></sub></a><br />
       <td align="center"><a href="https://github.com/nthu108011244"><img src="https://avatars.githubusercontent.com/u/79581483?v=4" width="100px;" alt="TangI Wang"/><br /><sub><b>TangI Wang</b></sub></a><br />
-      <td align="center"><a href="https://github.com/108061107"><img src="https://avatars.githubusercontent.com/u/79581724?v=4" width="100px;" alt="YuShen Lin"/><br /><sub><b>YuShen Lin</b></sub></a><br />  
+      <td align="center"><a href="https://github.com/108061107"><img src="https://avatars.githubusercontent.com/u/79581724?v=4" width="100px;" alt="YuSheng Lin"/><br /><sub><b>YuShen Lin</b></sub></a><br />  
     </tr>
   </tbody>
 </table>
@@ -13,7 +13,7 @@
 ### Prerequisite
 
 # Design & Innovations
-> Quote to be finished 
+> Quote to be finished
 
 ### Digital Signature Generation
 <p align="center">
