@@ -7,12 +7,12 @@
 
 ### Digital Signature Generation
 <p align="center">
-  <img src="./img/encrypt_flow.png" width="600" title="encrpyt_flow">
+  <img src="./img/encrypt_flow.png" width="500" title="encrpyt_flow">
 </p>
 
 ### Verificate Authenticity
 <p align="center">
-  <img src="./img/decrypt_flow.png" width="600" title="decrpyt_flow">
+  <img src="./img/decrypt_flow.png" width="500" title="decrpyt_flow">
 </p>
 
 # About Hardware
@@ -24,7 +24,7 @@
 
 ### Layout View
 <p align="center">
-  <img src="./img/layout_result.png" width="600" title="Layout Result">
+  <img src="./img/layout_result.png" width="700" title="Layout Result">
 </p>
 
 
