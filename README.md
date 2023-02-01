@@ -3,6 +3,11 @@
 ### Prerequisite
 
 # Innovations
+> Quote to be finished
+
+### Digital Signature Generation
+
+### Verificate Authenticity
 
 # About Hardware
 ### Top Module View
