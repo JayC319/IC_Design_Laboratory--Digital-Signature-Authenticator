@@ -97,9 +97,19 @@
 
 # Referenced Work
 <a id="1">[1]</a> 
+secworks
+/
+aes.
+Mar 10, 2022.
+<br />
 https://github.com/secworks/aes
 
 <a id="1">[2]</a> 
+secworks
+/
+sha256.
+Feb 17, 2022.
+<br />
 https://github.com/secworks/sha256
 
 # Referenced Paper
