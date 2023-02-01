@@ -80,6 +80,9 @@
 </div>
 
 # Referenced Work
+<a id="1">[1]</a> 
+
+<a id="1">[2]</a> 
 
 # Referenced Paper
 <a id="1">[1]</a> 
@@ -87,3 +90,12 @@ Secure Hash Standard.
 Federal Information Processing Standards Publication.
 August 1 2002.
 
+<a id="1">[2]</a> 
+Penny Pritzker, Willie May., SHA-3 Standard:
+Permutation-Based Hash and Extendable-Output
+Functions., Federal Information Processing Standards
+Publication. August 2015.
+
+<a id="1">[3]</a> 
+Advanced Encryption Standard., Federal Information
+Processing Standards Publication., November 26, 2001.
