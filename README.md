@@ -97,8 +97,10 @@
 
 # Referenced Work
 <a id="1">[1]</a> 
+https://github.com/secworks/aes
 
 <a id="1">[2]</a> 
+https://github.com/secworks/sha256
 
 # Referenced Paper
 <a id="1">[1]</a> 
