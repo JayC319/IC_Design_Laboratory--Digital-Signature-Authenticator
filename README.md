@@ -16,10 +16,12 @@
 </p>
 
 
+### Layout View
+ <p align="center">
+  <img src="./img/layout_result.png" width="600" title="Layout Result">
+</p>
+
 ### I/O Definition
-
-
-
 | Type   | Name          | bits | Description                                 |
 | ------ | ------------- | ---- | ------------------------------------------- |
 | Input  | clk           | 1    | Clock                                       |
@@ -34,14 +36,6 @@
 | Output | result        | 64   | for cipher output                           |
 | Output | msg_sram_addr | 11   | address for message data                    |
 | Output | cph_sram_addr | 5    | address for cipher data                     |
-
-
-### Layout View
-
-
- <p align="center">
-  <img src="./img/layout_result.png" width="600" title="Layout Result">
-</p>
  
  
 ### Power Analysis
@@ -56,17 +50,16 @@
 | Total Power (W)         | 2.35E-03   | 3.43E-03                          | 3.60E-03                           |
 
 ### Area 
-|                | area ( um2) | core utilization |
-|----------------|-------------|------------------|
-| synthesis area | 241509.46   |                  |
-| APR area       | 284199.26   | 85%              |
+|                | area ( um<sup>2</sup>) | core utilization |
+| -------------- | ---------------------- | ---------------- |
+| synthesis area | 241509.46              | 85%              |
+| APR area       | 284199.26              |
 
 ### Clock Period constrain
 |                  | timing (ns) |
-|------------------|-------------|
+| ---------------- | ----------- |
 | synthesis timing | 2.35        |
 | APR timing       | 3.2         |
-
 
 # Referenced Work
 
