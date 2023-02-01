@@ -2,10 +2,11 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt="JhaoWei Chen"/><br /><sub><b>JhaoWei Chen</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a>
+      <td align="center"><a href="https://kentcdodds.com"><img src="" width="100px;" alt="JhaoWei Chen"/><br /><sub><b>JhaoWei Chen</b></sub></a><br />
     </tr>
   </tbody>
 </table>
+
 # How to use ?
 ### Prerequisite
 
