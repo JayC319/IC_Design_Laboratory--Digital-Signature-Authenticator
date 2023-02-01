@@ -28,8 +28,9 @@
  
 ### Power Analysis
 
-![plot](./img/power_analysis.png)
-
+ <p align="center">
+  <img src="./img/power_analysis.png" width="700" title="Layout Result">
+</p>
 
 ### Area 
 
