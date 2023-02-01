@@ -15,21 +15,21 @@
 
 
 <p align="center">
-  <img src="./img/io_definition.png" width="500" title="I/O Definition">
+  <img src="./img/io_definition.png" width="600" title="I/O Definition">
 </p>
 
 ### Layout View
 
 
  <p align="center">
-  <img src="./img/layout_result.png" width="700" title="Layout Result">
+  <img src="./img/layout_result.png" width="600" title="Layout Result">
 </p>
  
  
 ### Power Analysis
 
  <p align="center">
-  <img src="./img/power_analysis.png" width="700" title="Layout Result">
+  <img src="./img/power_analysis.png" width="500" title="Layout Result">
 </p>
 
 ### Area 
