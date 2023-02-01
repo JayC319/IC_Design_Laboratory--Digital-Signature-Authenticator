@@ -81,4 +81,9 @@
 
 # Referenced Work
 
+# Referenced Paper
+<a id="1">[1]</a> 
+[1] Secure Hash Standard. 
+Federal Information Processing Standards Publication.
+August 1 2002.
 
