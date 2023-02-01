@@ -6,9 +6,9 @@
 
 # About Hardware
 ### Top Module View
-<p style="text-align:center"> 
+
 ![plot](./img/top_view.png)
-</p>
+
 ### I/O Definition
 <p style="text-align:center"> 
 ![plot](./img/io_definition.png)
