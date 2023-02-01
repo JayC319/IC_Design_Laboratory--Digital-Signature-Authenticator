@@ -69,7 +69,7 @@
 
 |                | area ( um<sup>2</sup>) | core utilization |
 | -------------- | ---------------------- | ---------------- |
-| synthesis area | 241509.46              |                  |
+| synthesis area | 241509.46              | 100%             |
 | APR area       | 284199.26              | 85%              |
 
 </div>
