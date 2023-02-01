@@ -21,8 +21,10 @@
   <img src="./img/layout_result.png" width="600" title="Layout Result">
 </p>
 
-<center>
+
 ### I/O Definition
+<center>
+
 | Type   | Name          | bits | Description                                 |
 | ------ | ------------- | ---- | ------------------------------------------- |
 | Input  | clk           | 1    | Clock                                       |
@@ -37,7 +39,8 @@
 | Output | result        | 64   | for cipher output                           |
 | Output | msg_sram_addr | 11   | address for message data                    |
 | Output | cph_sram_addr | 5    | address for cipher data                     |
- 
+
+</center>
  
 ### Power Analysis
 
@@ -61,7 +64,7 @@
 | ---------------- | ----------- |
 | synthesis timing | 2.35        |
 | APR timing       | 3.2         |
-</center>
+
 
 # Referenced Work
 
