@@ -19,7 +19,7 @@
 ### I/O Definition
 
 
-<p align="center">
+
 | Type   | Name          | bits | Description                                 |
 | ------ | ------------- | ---- | ------------------------------------------- |
 | Input  | clk           | 1    | Clock                                       |
@@ -34,7 +34,7 @@
 | Output | result        | 64   | for cipher output                           |
 | Output | msg_sram_addr | 11   | address for message data                    |
 | Output | cph_sram_addr | 5    | address for cipher data                     |
-</p>
+
 
 ### Layout View
 
