@@ -11,32 +11,53 @@
 
 # Prerequisite (Cell-Based Circuit Design Tool)
 ## Frontend Design Tool
-### Functional Verification - Synopsys VCS
+
+### Functional Verification
+```
+Synopsys VCS
+```
 <p align="center">
   <img src="https://images.synopsys.com/is/image/synopsys/VCS?qlt=82&wid=1200&ts=1634855595959&$responsive$&fit=constrain&dpr=off" width="400" title="encrpyt_flow">
 </p>
 
-### Automated Debug System - Synopsys Verdi
+
+### Automated Debug System
+```
+Synopsys Verdi
+```
 <p align="center">
   <img src="https://images.synopsys.com/is/image/synopsys/Verdi-Fig1?qlt=82&wid=1200&ts=1596142743792&$responsive$&fit=constrain&dpr=off" width="400" title="encrpyt_flow">
 </p>
 
-### RTL synthesis solution - Synopsys Design Compiler
+### RTL synthesis solution
+```
+Synopsys Design Compiler
+```
 <p align="center">
   <img src="https://images.synopsys.com/is/image/synopsys/CS12320_fig1?qlt=82&wid=1200&ts=1596142705371&$responsive$&fit=constrain&dpr=off" width="400" title="encrpyt_flow">
 </p>
   
 ## BackEnd Design Tool
 
-### Implementation System - Cadence Innovus
+### Implementation System
+```
+Cadence Innovus
+```
 
-### Static Timing Analysis - Synopsys PrimeTime
+### Static Timing Analysis
+```
+Synopsys PrimeTime
+```
 
-## Logic Equivalence Checking - Cadence Conformal
-
+## Logic Equivalence Checking
+```
+Cadence Conformal
+```
   
 ## Cell Library
- 
+```
+Cadence GPDK 45 nm
+```
 # Design & Innovations
 > Quote to be finished
 
