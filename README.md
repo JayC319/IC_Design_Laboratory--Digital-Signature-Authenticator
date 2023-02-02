@@ -32,10 +32,10 @@
 
 ### Static Timing Analysis - Synopsys PrimeTime
 
-### Logic Equivalence Checking - Cadence Conformal
+## Logic Equivalence Checking - Cadence Conformal
 
   
-### Cell Library
+## Cell Library
  
 # Design & Innovations
 > Quote to be finished
