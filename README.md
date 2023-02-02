@@ -17,7 +17,6 @@
 </p>
 
 ### Automated Debug System - Synopsys Verdi
-https://images.synopsys.com/is/image/synopsys/Verdi-Fig1?qlt=82&wid=1200&ts=1596142743792&$responsive$&fit=constrain&dpr=off
 <p align="center">
   <img src="https://images.synopsys.com/is/image/synopsys/Verdi-Fig1?qlt=82&wid=1200&ts=1596142743792&$responsive$&fit=constrain&dpr=off" width="400" title="encrpyt_flow">
 </p>
@@ -34,8 +33,7 @@ https://images.synopsys.com/is/image/synopsys/Verdi-Fig1?qlt=82&wid=1200&ts=1596
 ### Static Timing Analysis - Synopsys PrimeTime
 
 ### Logic Equivalence Checking - Cadence Conformal
-<p align="center">
-  <img src="https://images.synopsys.com/is/image/synopsys/CS12320_fig1?qlt=82&wid=1200&ts=1596142705371&$responsive$&fit=constrain&dpr=off" width="400" title="encrpyt_flow">
+
   
 ### Cell Library
  
