@@ -59,7 +59,22 @@ Cadence Conformal
 Cadence GPDK 45 nm
 ```
 # Design & Innovations
-> Quote to be finished
+### Data Flow Overview
+We aim to implement a digital authentication flow of message or document on hardware. In general, transmitter hashes the message / document through hashing algorithm. Then, encrypted the hashed value with private key with corresponding public key. For the receiver side, they can decrypt the cipher and hash again with the received message / document simultaneously. Eventually, they compared two hashed value, one from decryption, the other from hashing to see whether the message / document is authentic or manipulated.
+
+### Novelty
+Our approach is that we can implement the key generating part from another set of hashing algorithm on the message / document, so that no
+public key is needed. For the receiver, they first hash
+the message / document with two given hashing
+algorithm and then decrypt the cipher then compare
+the two hashed value. For this protocol, as long as
+the message or the key is not manipulated, the
+authentication works and it’s very nearly impossible
+for only manipulating message / document to
+deceive the receiver with false message / document
+since the hashing algorithm - SHA256 / SHA3-
+256 we applied in this hardware both have low
+collision rate.
 
 ### Digital Signature Generation
 <p align="center">
