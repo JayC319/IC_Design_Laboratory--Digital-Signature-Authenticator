@@ -58,6 +58,12 @@ Cadence Conformal
 ```
 Cadence GPDK 45 nm
 ```
+## Hardware Environment
+| Processor          | Freq / Core    | Memory     | OS           |
+| ------------------ | -------------- | ---------- | ------------ |
+|   Xeon(R) 4208\*2  |   2.10GHz/4C8T |   160G/64G |   CentOS 7.9 |
+|   Xeon(R) E5620\*2 |   2.40GHz/4C8T |   80G      |   CentOS 7.9 |
+
 # Design & Innovations
 ## Data Flow Overview
 We aim to implement a digital authentication flow of message or document on hardware. In general, transmitter hashes the message / document through hashing algorithm. Then, encrypted the hashed value with private key with corresponding public key. For the receiver side, they can decrypt the cipher and hash again with the received message / document simultaneously. Eventually, they compared two hashed value, one from decryption, the other from hashing to see whether the message / document is authentic or manipulated.
