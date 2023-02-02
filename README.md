@@ -37,7 +37,6 @@
   
 ### Cell Library
  
-</p>
 # Design & Innovations
 > Quote to be finished
 
