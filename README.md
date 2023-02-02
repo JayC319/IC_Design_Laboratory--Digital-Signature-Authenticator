@@ -65,10 +65,10 @@ Cadence GPDK 45 nm
 |   Xeon(R) E5620\*2 |   2.40GHz/4C8T |   80G      |   CentOS 7.9 |
 
 # Design & Innovations
-## Data Flow Overview
+### Data Flow Overview
 We aim to implement a digital authentication flow of message or document on hardware. In general, transmitter hashes the message / document through hashing algorithm. Then, encrypted the hashed value with private key with corresponding public key. For the receiver side, they can decrypt the cipher and hash again with the received message / document simultaneously. Eventually, they compared two hashed value, one from decryption, the other from hashing to see whether the message / document is authentic or manipulated.
 
-## Novelty
+### Novelty
 Our approach is that we can implement the key generating part from another set of hashing algorithm on the message / document, so that no
 public key is needed. For the receiver, they first hash
 the message / document with two given hashing
@@ -82,12 +82,12 @@ since the hashing algorithm - SHA256 / SHA3-
 256 we applied in this hardware both have low
 collision rate.
 
-## Digital Signature Generation
+### Digital Signature Generation
 <p align="center">
   <img src="./img/encrypt_flow.png" width="500" title="encrpyt_flow">
 </p>
 
-## Verificate Authenticity
+### Verificate Authenticity
 <p align="center">
   <img src="./img/decrypt_flow.png" width="500" title="decrpyt_flow">
 </p>
